@@ -5,9 +5,9 @@ public class Greeting {
 
         int hour =23;
 
-        if ( hour < 12 ) {
+        if (hour<12) {
             System.out.println("Good Morning!");
-        } else if ( hour >= 12 && hour < 17 ) {
+        } else if (hour>=12&&hour<7) {
             System.out.println("Good Afternoon!");
         } else  {
             System.out.println("Good Evening!!");
