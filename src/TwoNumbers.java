@@ -16,4 +16,3 @@ public class TwoNumbers {
         }
     }
 }
-// -Ahmet Selim
