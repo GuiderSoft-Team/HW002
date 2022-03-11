@@ -1,6 +1,16 @@
+import java.util.Scanner;
 public class TwoNumbers {
     public static void main(String[] args) {
-        //TODO: Write a Java program that will accept two numbers and check if two numbers are equal or not.
+        Scanner input=new Scanner(System.in);
+        System.out.println("Please enter first number : ");
+        int number1= input.nextInt();
+        System.out.println("Please enter second number");
+        int number2= input.nextInt();
+        if (number1 == number2){
+            System.out.println("Equal");
+        }else{
+            System.out.println("Not equal");
+        }
 
     }
 }
