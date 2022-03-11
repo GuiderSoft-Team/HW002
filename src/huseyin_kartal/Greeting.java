@@ -18,7 +18,7 @@ public class Greeting {
                 System.out.println("Good Evening");
             }
         } else {
-            System.out.println("Yanlış giriş yaptınız.");
+            System.out.println("Wrong hour format.");
         }
     }
 }
