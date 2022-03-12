@@ -8,9 +8,6 @@ public class MultTable {
             System.out.println();
             System.out.println();
             }
-
         }
-
-
     }
 

@@ -10,7 +10,6 @@ public class TwoNumbers {
         int sayi2 = input.nextInt();
         if (sayi1==sayi2) {
             System.out.println("Two numbers are equal!");
-
             } else {
                 System.out.println("Two numbers are not equal!");
         }

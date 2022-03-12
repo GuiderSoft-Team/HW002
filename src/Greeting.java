@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Greeting {
     public static void main(String[] args) {
 
-        int hour =23;
+        int hour =11;
 
         if (hour<12) {
             System.out.println("Good Morning!");
