@@ -15,5 +15,13 @@ public class TwoNumbers {
                 System.out.println("eşittir");
             } else {
                 System.out.println("eşit degildir");*/
+        int x=5;
+        int y=9;
+        if (x==y){
+            System.out.println("iki sayı birbirine eşittir.");
+        }
+        else if (x!=y) {
+            System.out.println("iki sayı birbirine eşit değildir.");
+        }
             }
         }
